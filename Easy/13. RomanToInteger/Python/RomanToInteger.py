@@ -40,10 +40,19 @@ def romanToInt(self, s):
     :type s: str
     :rtype: int
     """
+    # Base case: if s is empty, return 0
     if not s:
         return 0
+    # Base case: if s has only one character, return the value of that character
     if len(s) == 1:
         return roman_dict[s[0]]
+
+    # If the value of the first character is less than the value of the second character,
+    # subtract the first character from the second character
+    # and call the function recursively with the rest of the string
     if roman_dict[s[0]] < roman_dict[s[1]]:
         return roman_dict[s[1]] - roman_dict[s[0]] + self.romanToInt(s[2:])
+
+    # If the value of the first character is greater than or equal to the value of the second character,
+    # add the value of the first character and call the function recursively with the rest of the string
     return roman_dict[s[0]] + self.romanToInt(s[1:])
