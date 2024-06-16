@@ -17,6 +17,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 - **Hard**
   - Problem 1: Description
   - Problem 2: Description
+ 
+## Solved Problems
+[1. Two Sum](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1.%20TwoSum)
 
 ## Contributing
 
