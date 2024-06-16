@@ -45,7 +45,7 @@ def romanToInt(self, s):
         return 0
     # Base case: if s has only one character, return the value of that character
     if len(s) == 1:
-        return roman_dict[s[0]]
+        return roman_dict[s]
 
     # If the value of the first character is less than the value of the second character,
     # subtract the first character from the second character
