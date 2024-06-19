@@ -19,7 +19,9 @@ This repository is organized by the type of problem and difficulty level. Each s
   - Problem 2: Description
  
 ## Solved Problems
-[1. Two Sum](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1.%20TwoSum)
+[1. Two Sum](https://leetcode.com/problems/two-sum)  [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1.%20TwoSum) 
+
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/2.%20AddTwoNumbers)
 
 ## Contributing
 
