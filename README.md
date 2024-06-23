@@ -7,11 +7,27 @@ Welcome to my LeetCode repository! This repository contains my solutions to vari
 This repository is organized by the type of problem and difficulty level. Each solution is provided in its respective folder with a clear explanation and approach used.
  
 ## Solved Problems
-[1. Two Sum](https://leetcode.com/problems/two-sum)  [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1.%20TwoSum) 
+[1. Two Sum](https://leetcode.com/problems/two-sum) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1.%20TwoSum) 
 
-[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)  [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/2.%20AddTwoNumbers)
+[2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/2.%20AddTwoNumbers)
 
-[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)  [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/3.%20LongestSubstringWithoutRepeatingCharacters/Python)
+[3. Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/3.%20LongestSubstringWithoutRepeatingCharacters/Python)
+
+[6. Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/6.%20ZigzagConversion)
+
+[7. Reverse Integer](https://leetcode.com/problems/reverse-integer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/7.%20ReverseInteger)
+
+[9. Palindrome Number](https://leetcode.com/problems/palindrome-number/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/9.%20PalindromeNumber)
+
+[13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/13.%20RomanToInteger)
+
+[14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/14.%20LongestCommonPrefix)
+
+[21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/21.%20MergeTwoSortedLists)
+
+[100. Same Tree](https://leetcode.com/problems/same-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/100.%20SameTree)
+
+
 
 ## Contributing
 
