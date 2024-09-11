@@ -25,7 +25,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/21.%20MergeTwoSortedLists)
 
-[27. Remove Element](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/27.%20RemoveElement/Python) ---> [Solution](https://leetcode.com/problems/remove-element/)
+[26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/26.%20RemoveDuplicatesFromSortedArray/Python)
+
+[27. Remove Element](https://leetcode.com/problems/remove-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/27.%20RemoveElement/Python)
 
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/88.%20MergeSortedArray/Python)
  
