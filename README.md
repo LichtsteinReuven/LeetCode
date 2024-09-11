@@ -25,6 +25,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/21.%20MergeTwoSortedLists)
 
+[88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/88.%20MergeSortedArray))
+ 
 [100. Same Tree](https://leetcode.com/problems/same-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/100.%20SameTree)
 
 
