@@ -29,6 +29,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/27.%20RemoveElement/Python)
 
+[80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/80.%20RemoveDuplicatesFromSortedArrayII/Python)
+
 [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/88.%20MergeSortedArray/Python)
  
 [100. Same Tree](https://leetcode.com/problems/same-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/100.%20SameTree)
