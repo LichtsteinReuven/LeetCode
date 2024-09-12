@@ -39,7 +39,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [169. Majority Element](https://leetcode.com/problems/majority-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/169.%20MajorityElement/Python)
 
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.%20IsSubsequence/Python)
+
+
 
 ## Contributing
 
