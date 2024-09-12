@@ -35,7 +35,7 @@ This repository is organized by the type of problem and difficulty level. Each s
  
 [100. Same Tree](https://leetcode.com/problems/same-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/100.%20SameTree)
 
-[169. Majority Element](https://leetcode.com/problems/majority-element/) ---> [Solution](
+[169. Majority Element](https://leetcode.com/problems/majority-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/169.%20MajorityElement/Python)
 
 
 
