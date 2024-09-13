@@ -16,32 +16,20 @@ Constraints:
     s and t consist of lowercase English letters.
 """
 
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
-        if len(s) != len(t):
+
+def isAnagram(self, s, t):
+    """
+    :type s: str
+    :type t: str
+    :rtype: bool
+    """
+    if len(s) != len(t):
+        return False
+    words_count = Counter(s)
+    for char in t:
+        if char not in words_count:
             return False
-        words_count = Counter(s)
-        for char in t:
-            if char not in words_count:
-                return False
-            if words_count[char] < 1:
-                return False
-            words_count[char] -= 1
-        return True
-
-
-sol = Solution()
-print(sol.isAnagram("anagram", "nagaram"))  # True
-
-print(sol.isAnagram("rat", "car"))  # False
-
-print(sol.isAnagram("a", "ab"))  # False
-
-print(sol.isAnagram("a", "a"))  # True
-
-print(sol.isAnagram("a", "b"))  # False
+        if words_count[char] < 1:
+            return False
+        words_count[char] -= 1
+    return True
