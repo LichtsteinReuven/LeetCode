@@ -25,6 +25,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/14.%20LongestCommonPrefix)
 
+[15. 3Sum](https://leetcode.com/problems/3sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/15.3Sum/Python)
+
 [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/20.ValidParentheses/Python)
 
 [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/21.%20MergeTwoSortedLists)
