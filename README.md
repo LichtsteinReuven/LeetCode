@@ -59,7 +59,7 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.%20IsSubsequence/Python)
 
-[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ---> [Solution](
+[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1757.RecuclableAndLowFatProducts/SQL)
 
 
 
