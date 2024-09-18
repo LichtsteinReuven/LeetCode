@@ -63,6 +63,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [595. Big Countries](https://leetcode.com/problems/big-countries/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/595.BigCountries/SQL)
 
+[1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
+
 [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1757.RecuclableAndLowFatProducts/SQL)
 
 
