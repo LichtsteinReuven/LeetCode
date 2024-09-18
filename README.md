@@ -21,6 +21,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/11.ContainerWithMostWater/Python)
 
+[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/12.IntegerToRoman/Python)
+
 [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/13.%20RomanToInteger)
 
 [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/14.%20LongestCommonPrefix)
