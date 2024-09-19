@@ -59,6 +59,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/242.ValidAnagram/Python)
 
+[290. Word Pattern](https://leetcode.com/problems/word-pattern/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/290.WordPattern/Python)
+
 [383. Ransom Note](https://leetcode.com/problems/ransom-note/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/383.RansomNote/Python)
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.%20IsSubsequence/Python)
