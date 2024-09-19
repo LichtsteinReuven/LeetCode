@@ -61,6 +61,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/189.%20RotateArray/Python)
 
+[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/197.RisingTemperature/SQL)
+
 [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/228.SummaryRanges/Python)
 
 [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/242.ValidAnagram/Python)
