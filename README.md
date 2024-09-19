@@ -77,6 +77,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
 
+[1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1683.InvalidTweets/SQL)
+
 [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1757.RecuclableAndLowFatProducts/SQL)
 
 
