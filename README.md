@@ -39,6 +39,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Hard/30.SubstringWithConcatenationOfAllWords/Python)
 
+[56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/56.MergeIntervals/Python)
+
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/73.SetMatrixZeroes/Python)
 
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/80.%20RemoveDuplicatesFromSortedArrayII/Python)
