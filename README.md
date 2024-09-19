@@ -51,6 +51,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/141.LinkedListCycle/Python)
 
+[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/151.ReverseWordsInAString/Python)
+
 [167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/167.TwoSumII%20-InputArrayIsSorted/Python)
 
 [169. Majority Element](https://leetcode.com/problems/majority-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/169.%20MajorityElement/Python)
