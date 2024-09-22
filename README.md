@@ -83,6 +83,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
 
+[1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1280.StudentsAndExaminations/SQL)
+
 [1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1378.ReplaceEmployeeIDWithTheUniqueIdentifier/SQL)
 
 [1581. Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1581.CustomerWhoVisitedButDidNotMakeAnyTransactions/SQL)
