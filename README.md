@@ -49,6 +49,8 @@ This repository is organized by the type of problem and difficulty level. Each s
  
 [100. Same Tree](https://leetcode.com/problems/same-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/100.%20SameTree)
 
+[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/104.MaximumDepthOfBinaryTree/Python)
+
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/125.%20ValidPalindrome/Python)
 
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/141.LinkedListCycle/Python)
