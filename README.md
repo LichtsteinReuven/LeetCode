@@ -73,6 +73,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [290. Word Pattern](https://leetcode.com/problems/word-pattern/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/290.WordPattern/Python)
 
+[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/380.InsertDeleteGetRandomO(1)/Python)
+
 [383. Ransom Note](https://leetcode.com/problems/ransom-note/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/383.RansomNote/Python)
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.%20IsSubsequence/Python)
