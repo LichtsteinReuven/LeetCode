@@ -107,6 +107,7 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1757.RecuclableAndLowFatProducts/SQL)
 
+[1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1934.ConfirmationRate/SQL)
 
 
 ## Contributing
