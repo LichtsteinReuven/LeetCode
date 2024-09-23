@@ -71,6 +71,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [189. Rotate Array](https://leetcode.com/problems/rotate-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/189.%20RotateArray/Python)
 
+[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/190.ReverseBits/Python)
+
 [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/197.RisingTemperature/SQL)
 
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/226.InvertBinaryTree/Python)
