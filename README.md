@@ -91,6 +91,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [595. Big Countries](https://leetcode.com/problems/big-countries/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/595.BigCountries/SQL)
 
+[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/620.NotBoringMovies/SQL)
+
 [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1068.ProductSalesAnalysisI/SQL)
 
 [1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
