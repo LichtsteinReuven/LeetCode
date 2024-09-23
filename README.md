@@ -57,6 +57,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/125.%20ValidPalindrome/Python)
 
+[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/138.CopyListWithRandomPointer/Python)
+
 [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/141.LinkedListCycle/Python)
 
 [151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/151.ReverseWordsInAString/Python)
