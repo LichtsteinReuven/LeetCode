@@ -83,6 +83,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.%20IsSubsequence/Python)
 
+[570. Managers with at Least 5 Direct Reports](https://leetcode.com/problems/managers-with-at-least-5-direct-reports/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/570.ManagersWithAtLeast5DirectReports/SQL)
+
 [577. Employee Bonus](https://leetcode.com/problems/employee-bonus/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/577.EmployeeBonus/SQL)
 
 [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/584.FindCustomerReferee/SQL)
