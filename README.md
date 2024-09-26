@@ -47,6 +47,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [67. Add Binary](https://leetcode.com/problems/add-binary/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/67.AddBinary/Python)
 
+[70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/70.ClimbingStairs/Python)
+
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/73.SetMatrixZeroes/Python)
 
 [77. Combinations](https://leetcode.com/problems/combinations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/77.Combinations/Python)
