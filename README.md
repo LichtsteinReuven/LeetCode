@@ -115,6 +115,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1581. Customer Who Visited But Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1581.CustomerWhoVisitedButDidNotMakeAnyTransactions/SQL)
 
+[1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1633.PercentageOfUsersAttendedAContest/SQL)
+
 [1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1661.AverageTimeOfProcessPerMachine/SQL)
 
 [1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1683.InvalidTweets/SQL)
