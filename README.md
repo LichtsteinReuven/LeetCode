@@ -101,6 +101,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1068.ProductSalesAnalysisI/SQL)
 
+[1075. Project Employees I](https://leetcode.com/problems/project-employees-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1075.ProjectEmployeesI/SQL)
+
 [1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
 
 [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1251.AverageSellingPrice/SQL)
