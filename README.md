@@ -123,6 +123,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1934. Confirmation Rate](https://leetcode.com/problems/confirmation-rate/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1934.ConfirmationRate/SQL)
 
+[2356. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/2356.NumberOfUniqueSubjectsTaughtByEachTeacher/SQL)
+
 
 ## Contributing
 
