@@ -119,6 +119,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
 
+[1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1211.QueriesQualityAndPercentage/SQL)
+
 [1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1251.AverageSellingPrice/SQL)
 
 [1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1280.StudentsAndExaminations/SQL)
