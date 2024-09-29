@@ -39,6 +39,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [27. Remove Element](https://leetcode.com/problems/remove-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/27.%20RemoveElement/Python)
 
+[28. Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/28.FindTheIndexOfTheFirstOccurrenceInAString/Python)
+
 [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Hard/30.SubstringWithConcatenationOfAllWords/Python)
 
 [46. Permutations](https://leetcode.com/problems/permutations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/46.Permutations/Python)
