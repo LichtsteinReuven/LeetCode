@@ -119,7 +119,7 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [1148. Article Views I](https://leetcode.com/problems/article-views-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1148.ArticleViewsI/SQL)
 
-[1174. Immediate Food Delivery I](https://leetcode.com/problems/immediate-food-delivery-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1174.ImmediateFoodDeliveryII/SQL)
+[1174. Immediate Food Delivery II](https://leetcode.com/problems/immediate-food-delivery-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1174.ImmediateFoodDeliveryII/SQL)
 
 [1193. Monthly Transactions I](https://leetcode.com/problems/monthly-transactions-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1193.MonthlyTransactionsI/SQL)
 
