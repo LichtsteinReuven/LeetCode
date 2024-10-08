@@ -43,6 +43,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [30. Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Hard/30.SubstringWithConcatenationOfAllWords/Python)
 
+[39. Combination Sum](https://leetcode.com/problems/combination-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/39.CombinationSum/Python)
+
 [46. Permutations](https://leetcode.com/problems/permutations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/46.Permutations/Python)
 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/56.MergeIntervals/Python)
