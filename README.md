@@ -47,6 +47,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [46. Permutations](https://leetcode.com/problems/permutations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/46.Permutations/Python)
 
+[52. N-Queens II](https://leetcode.com/problems/n-queens-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Hard/52.N-QueensII/Python)
+
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/56.MergeIntervals/Python)
 
 [66. Plus One](https://leetcode.com/problems/plus-one/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/66.PlusOne/Python)
