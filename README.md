@@ -95,6 +95,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/205.IsomorphicStrings/Python)
 
+[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/219.ContainsDuplicateII/Python)
+
 [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/226.InvertBinaryTree/Python)
 
 [228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/228.SummaryRanges/Python)
