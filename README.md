@@ -95,6 +95,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/197.RisingTemperature/SQL)
 
+[198. House Robber](https://leetcode.com/problems/house-robber/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/198.HouseRobber/Python)
+
 [202. Happy Number](https://leetcode.com/problems/happy-number/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/202.HappyNumber/Python)
 
 [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/205.IsomorphicStrings/Python)
