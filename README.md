@@ -61,6 +61,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [73. Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/73.SetMatrixZeroes/Python)
 
+[74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/74.SearchA2DMatrix/Python)
+
 [77. Combinations](https://leetcode.com/problems/combinations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/77.Combinations/Python)
 
 [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/80.%20RemoveDuplicatesFromSortedArrayII/Python)
