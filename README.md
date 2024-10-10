@@ -93,6 +93,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 &nbsp;&nbsp;&nbsp;&nbsp;[61. Rotate List](https://leetcode.com/problems/rotate-list/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/61.RotateList/Python)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[63. Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/63.UniquePathsII/Python)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[64. Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/64.MinimumPathSum/Python)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[66. Plus One](https://leetcode.com/problems/plus-one/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/66.PlusOne/Python)
