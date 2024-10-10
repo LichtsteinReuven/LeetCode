@@ -34,3 +34,38 @@ Constraints:
     Methods pop, top and getMin operations will always be called on non-empty stacks.
     At most 3 * 10^4 calls will be made to push, pop, top, and getMin.
 """
+
+
+class MinStack(object):
+
+    def __init__(self):
+        self._stack = []
+        self._min = float('inf')
+
+    def push(self, val):
+        """
+        :type val: int
+        :rtype: None
+        """
+        if val < self._min:
+            self._min = val
+        self._stack.append((val, self._min))
+
+    def pop(self):
+        """
+        :rtype: None
+        """
+        self._stack.pop()
+        self._min = self._stack[-1][1] if self._stack else float('inf')
+
+    def top(self):
+        """
+        :rtype: int
+        """
+        return self._stack[-1][0]
+
+    def getMin(self):
+        """
+        :rtype: int
+        """
+        return self._stack[-1][1]
