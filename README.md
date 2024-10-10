@@ -53,6 +53,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/56.MergeIntervals/Python)
 
+[61. Rotate List](https://leetcode.com/problems/rotate-list/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/61.RotateList/Python)
+
 [66. Plus One](https://leetcode.com/problems/plus-one/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/66.PlusOne/Python)
 
 [67. Add Binary](https://leetcode.com/problems/add-binary/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/67.AddBinary/Python)
