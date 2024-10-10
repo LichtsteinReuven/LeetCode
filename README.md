@@ -136,44 +136,83 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 101 - 110</summary>
 
-[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/104.MaximumDepthOfBinaryTree/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/104.MaximumDepthOfBinaryTree/Python)
 
-[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/108.ConvertSortedArrayToBinarySearchTree/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/108.ConvertSortedArrayToBinarySearchTree/Python)
 
 </details>
 
 <details>
 <summary>Problems 111 - 120</summary>
 
-[112. Path Sum](https://leetcode.com/problems/path-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/112.PathSum/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[112. Path Sum](https://leetcode.com/problems/path-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/112.PathSum/Python)
 
-[120. Triangle](https://leetcode.com/problems/triangle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/120.Triangle/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[120. Triangle](https://leetcode.com/problems/triangle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/120.Triangle/Python)
 
 </details>
 
-[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/125.%20ValidPalindrome/Python)
+<details>
+<summary>Problems 121 - 130</summary>
 
-[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/138.CopyListWithRandomPointer/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/125.%20ValidPalindrome/Python)
 
-[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/141.LinkedListCycle/Python)
+</details> 
 
-[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/150.EvaluateReversePolishNotation/Python)
+<details>
+<summary>Problems 131 - 140</summary>
 
-[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/151.ReverseWordsInAString/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/138.CopyListWithRandomPointer/Python)
 
-[155. Min Stack](https://leetcode.com/problems/min-stack/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/155.MinStack/Python)
+</details>
 
-[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/167.TwoSumII%20-InputArrayIsSorted/Python)
+<details>
+<summary>Problems 141 - 150</summary>
 
-[169. Majority Element](https://leetcode.com/problems/majority-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/169.%20MajorityElement/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/141.LinkedListCycle/Python)
 
-[189. Rotate Array](https://leetcode.com/problems/rotate-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/189.%20RotateArray/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[150. Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/150.EvaluateReversePolishNotation/Python)
 
-[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/190.ReverseBits/Python)
+</details>  
 
-[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/197.RisingTemperature/SQL)
+<details>
+<summary>Problems 151 - 160</summary>
 
-[198. House Robber](https://leetcode.com/problems/house-robber/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/198.HouseRobber/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/151.ReverseWordsInAString/Python)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[155. Min Stack](https://leetcode.com/problems/min-stack/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/155.MinStack/Python)
+
+</details>
+
+<details>
+<summary>Problems 161 - 170</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[167. Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/167.TwoSumII%20-InputArrayIsSorted/Python)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[169. Majority Element](https://leetcode.com/problems/majority-element/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/169.%20MajorityElement/Python)
+
+</details>
+
+<details>
+<summary>Problems 171 - 180</summary>
+</details>
+
+<details>
+<summary>Problems 181 - 190</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[189. Rotate Array](https://leetcode.com/problems/rotate-array/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/189.%20RotateArray/Python)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[190. Reverse Bits](https://leetcode.com/problems/reverse-bits/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/190.ReverseBits/Python)
+
+</details>
+
+<details>
+<summary>Problems 191 - 200</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[197. Rising Temperature](https://leetcode.com/problems/rising-temperature/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/197.RisingTemperature/SQL)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[198. House Robber](https://leetcode.com/problems/house-robber/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/198.HouseRobber/Python)
+
+</details>
 
 </details>
 
