@@ -133,11 +133,23 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 101 - 200</summary>
 
+<details>
+<summary>Problems 101 - 110</summary>
+
 [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/104.MaximumDepthOfBinaryTree/Python)
 
 [108. Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/108.ConvertSortedArrayToBinarySearchTree/Python)
 
+</details>
+
+<details>
+<summary>Problems 111 - 120</summary>
+
 [112. Path Sum](https://leetcode.com/problems/path-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/112.PathSum/Python)
+
+[120. Triangle](https://leetcode.com/problems/triangle/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/120.Triangle/Python)
+
+</details>
 
 [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/125.%20ValidPalindrome/Python)
 
