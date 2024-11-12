@@ -292,11 +292,53 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 301 - 400</summary>
 
-[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/380.InsertDeleteGetRandomO(1)/Python)
+<details>
+<summary>Problems 301 - 310</summary>
+</details>
 
-[383. Ransom Note](https://leetcode.com/problems/ransom-note/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/383.RansomNote/Python)
+<details>
+<summary>Problems 311 - 320</summary>
+</details>
 
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.IsSubsequence)
+<details>
+<summary>Problems 321 - 330</summary>
+</details>
+
+<details>
+<summary>Problems 331 - 340</summary>
+</details>
+
+<details>
+<summary>Problems 341 - 350</summary>
+</details>
+
+<details>
+<summary>Problems 351 - 360</summary>
+</details>
+
+<details>
+<summary>Problems 361 - 370</summary>
+</details>
+
+<details>
+<summary>Problems 371 - 380</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[380. Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/380.InsertDeleteGetRandomO(1)/Python)
+
+</details>
+
+<details>
+<summary>Problems 381 - 390</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[383. Ransom Note](https://leetcode.com/problems/ransom-note/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/383.RansomNote/Python)
+</details>
+
+<details>
+<summary>Problems 391 - 400</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.IsSubsequence)
+
+</details>
 
 </details>
 
