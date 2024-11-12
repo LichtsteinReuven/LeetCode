@@ -426,10 +426,11 @@ This repository is organized by the type of problem and difficulty level. Each s
 <summary>Problems 1751 - 1760</summary>
 
 &nbsp;&nbsp;&nbsp;&nbsp;[1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1757.RecuclableAndLowFatProducts/SQL)
-</detail>
+</details>
 
 <details>
 <summary>Problems 1761 - 1770</summary>
+
 &nbsp;&nbsp;&nbsp;&nbsp;[1768. Merge Names](https://leetcode.com/problems/merge-names/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1768.MergeStringsAlternately/C)
 </details>
 
