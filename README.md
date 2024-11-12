@@ -320,6 +320,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 341 - 350</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/345.ReverseVowelsOfAString/C%2B%2B)
+
 </details>
 
 <details>
