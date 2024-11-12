@@ -311,6 +311,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 331 - 340</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[338. Counting Bits](https://leetcode.com/problems/counting-bits/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/338.CountingBits/C)
+
 </details>
 
 <details>
