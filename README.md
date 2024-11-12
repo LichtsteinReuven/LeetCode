@@ -232,6 +232,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 &nbsp;&nbsp;&nbsp;&nbsp;[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/205.IsomorphicStrings/Python)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/206.ReverseLinkedList/C)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/209.MinimumSizeSubarraySum/Python)
 
 </details>
