@@ -278,6 +278,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 281 - 290</summary>
 
+&nbsp;&nbsp;&nbsp;&nbsp;[283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/283.MoveZeroes/C)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[290. Word Pattern](https://leetcode.com/problems/word-pattern/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/290.WordPattern/Python)
 </details> 
 
