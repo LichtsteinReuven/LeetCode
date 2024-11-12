@@ -256,6 +256,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 231 - 240</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[238. Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/238.ProductOfArrayExceptSelf/C)
+
 </details>
 
 <details>
