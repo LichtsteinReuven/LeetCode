@@ -342,9 +342,53 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 1001 - 1100</summary>
 
-[1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1068.ProductSalesAnalysisI/SQL)
+<details>
+<summary>Problems 1001 - 1010</summary>
+</details>
 
-[1075. Project Employees I](https://leetcode.com/problems/project-employees-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1075.ProjectEmployeesI/SQL)
+<details>
+<summary>Problems 1011 - 1020</summary>
+</details>
+
+<details>
+<summary>Problems 1021 - 1030</summary>
+</details>
+
+<details>
+<summary>Problems 1031 - 1040</summary>
+</details>
+
+<details>
+<summary>Problems 1041 - 1050</summary>
+</details>
+
+<details>
+<summary>Problems 1051 - 1060</summary>
+</details>
+
+<details>
+<summary>Problems 1061 - 1070</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1068. Product Sales Analysis I](https://leetcode.com/problems/product-sales-analysis-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1068.ProductSalesAnalysisI/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1071 - 1080</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1071. Greatest Common Divisor of Strings](https://leetcode.com/problems/greatest-common-divisor-of-strings/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1071.GreatestCommonDivisorOfStrings/C)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1075. Project Employees I](https://leetcode.com/problems/project-employees-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1075.ProjectEmployeesI/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1081 - 1090</summary>
+</details>
+
+<details>
+<summary>Problems 1091 - 1100</summary>
+</details>
 
 </details>
 
