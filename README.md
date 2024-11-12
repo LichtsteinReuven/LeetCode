@@ -391,6 +391,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 641 - 650</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/643.MaximumAverageSubarrayI/C)
+
 </details>
 
 <details>
