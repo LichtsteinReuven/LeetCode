@@ -716,11 +716,57 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 1601 - 1700</summary>
 
-[1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1633.PercentageOfUsersAttendedAContest/SQL)
+<details>
+<summary>Problems 1601 - 1610</summary>
+</details>
 
-[1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1661.AverageTimeOfProcessPerMachine/SQL)
+<details>
+<summary>Problems 1611 - 1620</summary>
+</details>
 
-[1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1683.InvalidTweets/SQL)
+<details>
+<summary>Problems 1621 - 1630</summary>
+</details>
+
+<details>
+<summary>Problems 1631 - 1640</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1633. Percentage of Users Attended a Contest](https://leetcode.com/problems/percentage-of-users-attended-a-contest/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1633.PercentageOfUsersAttendedAContest/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1641 - 1650</summary>
+</details>
+
+<details>
+<summary>Problems 1651 - 1660</summary>
+</details>
+
+<details>
+<summary>Problems 1661 - 1670</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1661. Average Time of Process per Machine](https://leetcode.com/problems/average-time-of-process-per-machine/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1661.AverageTimeOfProcessPerMachine/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1671 - 1680</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1679. Max Number of K-Sum Pairs](https://leetcode.com/problems/max-number-of-k-sum-pairs/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1679.MaxNumberOfK-SumPairs/C%2B%2B)
+
+</details>
+
+<details>
+<summary>Problems 1681 - 1690</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1683. Invalid Tweets](https://leetcode.com/problems/invalid-tweets/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1683.InvalidTweets/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1691 - 1700</summary>
+</details>
 
 </details>
 
