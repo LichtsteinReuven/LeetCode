@@ -595,6 +595,9 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 1731 - 1740</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1732. Find the Highest Altitude](https://leetcode.com/problems/find-the-highest-altitude/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1732.FindTheHighestAltitude/C)
+
 </details>
 
 <details>
