@@ -225,19 +225,65 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 201 - 300</summary>
 
-[202. Happy Number](https://leetcode.com/problems/happy-number/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/202.HappyNumber/Python)
+<details>
+<summary>Problems 201 - 210</summary>
 
-[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/205.IsomorphicStrings/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[202. Happy Number](https://leetcode.com/problems/happy-number/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/202.HappyNumber/Python)
 
-[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/219.ContainsDuplicateII/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/205.IsomorphicStrings/Python)
 
-[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/226.InvertBinaryTree/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[209. Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/209.MinimumSizeSubarraySum/Python)
 
-[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/228.SummaryRanges/Python)
+</details>
 
-[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/242.ValidAnagram/Python)
+<details>
+<summary>Problems 211 - 220</summary>
 
-[290. Word Pattern](https://leetcode.com/problems/word-pattern/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/290.WordPattern/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/219.ContainsDuplicateII/Python)
+
+</details>  
+
+<details>
+<summary>Problems 221 - 230</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/226.InvertBinaryTree/Python)
+
+&nbsp;&nbsp;&nbsp;&nbsp;[228. Summary Ranges](https://leetcode.com/problems/summary-ranges/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/228.SummaryRanges/Python)
+
+</details>
+
+<details>
+<summary>Problems 231 - 240</summary>
+</details>
+
+<details>
+<summary>Problems 241 - 250</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/242.ValidAnagram/Python)
+
+</details>
+
+<details>
+<summary>Problems 251 - 260</summary>
+</details>
+
+<details>
+<summary>Problems 261 - 270</summary>
+</details>
+
+<details>
+<summary>Problems 271 - 280</summary>
+</details>
+
+<details>
+<summary>Problems 281 - 290</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[290. Word Pattern](https://leetcode.com/problems/word-pattern/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/290.WordPattern/Python)
+</details> 
+
+<details>
+<summary>Problems 291 - 300</summary>
+</details>
 
 </details>
 
