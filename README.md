@@ -423,6 +423,50 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 1401 - 1500</summary>
+
+<details>
+<summary>Problems 1401 - 1410</summary>
+</details>
+
+<details>
+<summary>Problems 1411 - 1420</summary>
+</details>
+
+<details>
+<summary>Problems 1421 - 1430</summary>
+</details>
+
+<details>
+<summary>Problems 1431 - 1440</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1431. Kids With the Greatest Number of Candies](https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1431.KidsWithTheGreatestNumberOfCandies/C)
+
+</details>
+
+<details>
+<summary>Problems 1441 - 1450</summary>
+</details>
+
+<details>
+<summary>Problems 1451 - 1460</summary>
+</details>
+
+<details>
+<summary>Problems 1461 - 1470</summary>
+</details>
+
+<details>
+<summary>Problems 1471 - 1480</summary>
+</details>
+
+<details>
+<summary>Problems 1481 - 1490</summary>
+</details>
+
+<details>
+<summary>Problems 1491 - 1500</summary>
+</details>
+
 </details>
 
 <details>
