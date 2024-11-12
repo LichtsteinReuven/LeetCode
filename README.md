@@ -75,6 +75,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 &nbsp;&nbsp;&nbsp;&nbsp;[46. Permutations](https://leetcode.com/problems/permutations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/46.Permutations/Python)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[48. Rotate Image](https://leetcode.com/problems/rotate-image/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/48.RotateImage/Python)
+
 </details>
 
 <details>
