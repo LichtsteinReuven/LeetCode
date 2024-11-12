@@ -323,7 +323,51 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 601 - 700</summary>
 
-[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/620.NotBoringMovies/SQL)
+<details>
+<summary>Problems 601 - 610</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[605. Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/605.CanPlaceFlowers/C)
+
+</details>
+
+<details>
+<summary>Problems 611 - 620</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[620. Not Boring Movies](https://leetcode.com/problems/not-boring-movies/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/620.NotBoringMovies/SQL)
+
+</details>
+
+<details>
+<summary>Problems 621 - 630</summary>
+</details>
+
+<details>
+<summary>Problems 631 - 640</summary>
+</details>
+
+<details>
+<summary>Problems 641 - 650</summary>
+</details>
+
+<details>
+<summary>Problems 651 - 660</summary>
+</details>
+
+<details>
+<summary>Problems 661 - 670</summary>
+</details>
+
+<details>
+<summary>Problems 671 - 680</summary>
+</details>
+
+<details>
+<summary>Problems 681 - 690</summary>
+</details>
+
+<details>
+<summary>Problems 691 - 700</summary>
+</details>
 
 </details>
 
