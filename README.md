@@ -695,6 +695,50 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 2201 - 2300</summary>
+
+<details>
+<summary>Problems 2201 - 2210</summary>
+</details>
+
+<details>
+<summary>Problems 2211 - 2220</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/2215.FindTheDifferenceOfTwoArrays/C)
+
+</details>
+
+<details>
+<summary>Problems 2221 - 2230</summary>
+</details>
+
+<details>
+<summary>Problems 2231 - 2240</summary>
+</details> 
+
+<details>
+<summary>Problems 2241 - 2250</summary>
+</details>
+
+<details>
+<summary>Problems 2251 - 2260</summary>
+</details>
+
+<details>
+<summary>Problems 2261 - 2270</summary>
+</details>
+
+<details>
+<summary>Problems 2271 - 2280</summary>
+</details>
+
+<details>
+<summary>Problems 2281 - 2290</summary>
+</details>
+
+<details>
+<summary>Problems 2291 - 2300</summary>
+</details>
+
 </details>
 
 <details>
