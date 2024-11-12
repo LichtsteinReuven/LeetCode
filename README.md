@@ -30,7 +30,7 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 11 - 20</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/11.ContainerWithMostWater/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[11. Container With Most Water](https://leetcode.com/problems/container-with-most-water/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/11.ContainerWithMostWater)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[12. Integer to Roman](https://leetcode.com/problems/integer-to-roman/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/12.IntegerToRoman/Python)
 
