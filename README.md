@@ -296,7 +296,7 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 [383. Ransom Note](https://leetcode.com/problems/ransom-note/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/383.RansomNote/Python)
 
-[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.%20IsSubsequence/Python)
+[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.IsSubsequence)
 
 </details>
 
