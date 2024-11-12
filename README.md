@@ -358,6 +358,49 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 401 - 500</summary>
 
+<details>
+<summary>Problems 401 - 410</summary>
+</details>
+
+<details>
+<summary>Problems 411 - 420</summary>
+</details>
+
+<details>
+<summary>Problems 421 - 430</summary>
+</details>
+
+<details>
+<summary>Problems 431 - 440</summary>
+</details>
+
+<details>
+<summary>Problems 441 - 450</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[443. String Compression](https://leetcode.com/problems/string-compression/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/443.StringCompression/C%2B%2B)
+
+</details>
+
+<details>
+<summary>Problems 451 - 460</summary>
+</details>
+
+<details>
+<summary>Problems 461 - 470</summary>
+</details>
+
+<details>
+<summary>Problems 471 - 480</summary>
+</details>
+
+<details>
+<summary>Problems 481 - 490</summary>
+</details>
+
+<details>
+<summary>Problems 491 - 500</summary>
+</details>
+
 </details>
 
 <details>
