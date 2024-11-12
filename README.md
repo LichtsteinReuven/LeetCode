@@ -562,7 +562,51 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 1301 - 1400</summary>
 
-[1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1378.ReplaceEmployeeIDWithTheUniqueIdentifier/SQL)
+<details>
+<summary>Problems 1301 - 1310</summary>
+</details>
+
+<details>
+<summary>Problems 1311 - 1320</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1318. Minimum Flips to Make a OR b Equal to c](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/1318.MinimumFlipsToMakeAOrBEqualToC/C)
+
+</details>
+
+<details>
+<summary>Problems 1321 - 1330</summary>
+</details>
+
+<details>
+<summary>Problems 1331 - 1340</summary>
+</details>
+
+<details>
+<summary>Problems 1341 - 1350</summary>
+</details>
+
+<details>
+<summary>Problems 1351 - 1360</summary>
+</details>
+
+<details>
+<summary>Problems 1361 - 1370</summary>
+</details>
+
+<details>
+<summary>Problems 1371 - 1380</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1378. Replace Employee ID With The Unique Identifier](https://leetcode.com/problems/replace-employee-id-with-the-unique-identifier/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1378.ReplaceEmployeeIDWithTheUniqueIdentifier/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1381 - 1390</summary>
+</details>
+
+<details>
+<summary>Problems 1391 - 1400</summary>
+</details>
 
 </details>
 
