@@ -167,6 +167,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 131 - 140</summary>
 
+&nbsp;&nbsp;&nbsp;&nbsp;[136. Single Number](https://leetcode.com/problems/single-number/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/136.SingleNumber/C)
+
 &nbsp;&nbsp;&nbsp;&nbsp;[138. Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/138.CopyListWithRandomPointer/Python)
 
 </details>
