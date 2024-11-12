@@ -599,11 +599,57 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 1201 - 1300</summary>
 
-[1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1211.QueriesQualityAndPercentage/SQL)
+<details>
+<summary>Problems 1201 - 1210</summary>
 
-[1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1251.AverageSellingPrice/SQL)
+&nbsp;&nbsp;&nbsp;&nbsp;[1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1207.UniqueNumberOfOccurrences/C%2B%2B)
 
-[1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1280.StudentsAndExaminations/SQL)
+</details>
+
+<details>
+<summary>Problems 1211 - 1220</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1211. Queries Quality and Percentage](https://leetcode.com/problems/queries-quality-and-percentage/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1211.QueriesQualityAndPercentage/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1221 - 1230</summary>
+</details>
+
+<details>
+<summary>Problems 1231 - 1240</summary>
+</details>
+
+<details>
+<summary>Problems 1241 - 1250</summary>
+</details>
+
+<details>
+<summary>Problems 1251 - 1260</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1251. Average Selling Price](https://leetcode.com/problems/average-selling-price/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1251.AverageSellingPrice/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1261 - 1270</summary>
+</details>
+
+<details>
+<summary>Problems 1271 - 1280</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[1280. Students and Examinations](https://leetcode.com/problems/students-and-examinations/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/1280.StudentsAndExaminations/SQL)
+
+</details>
+
+<details>
+<summary>Problems 1281 - 1290</summary>
+</details>
+
+<details>
+<summary>Problems 1291 - 1300</summary>
+</details>
 
 </details>
 
