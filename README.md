@@ -353,6 +353,8 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 &nbsp;&nbsp;&nbsp;&nbsp;[392. Is Subsequence](https://leetcode.com/problems/is-subsequence/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/392.IsSubsequence)
 
+&nbsp;&nbsp;&nbsp;&nbsp;[394. Decode String](https://leetcode.com/problems/decode-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/394.DecodeString/C%2B%2B)
+
 </details>
 
 </details>
