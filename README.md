@@ -892,7 +892,51 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 2301 - 2400</summary>
 
-[2356. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/2356.NumberOfUniqueSubjectsTaughtByEachTeacher/SQL)
+<details>
+<summary>Problems 2301 - 2310</summary>
+</details>
+
+<details>
+<summary>Problems 2311 - 2320</summary>
+</details>
+
+<details>
+<summary>Problems 2321 - 2330</summary>
+</details>
+
+<details>
+<summary>Problems 2331 - 2340</summary>
+</details>
+
+<details>
+<summary>Problems 2341 - 2350</summary>
+</details>
+
+<details>
+<summary>Problems 2351 - 2360</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[2356. Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/2356.NumberOfUniqueSubjectsTaughtByEachTeacher/SQL)
+
+</details>
+
+<details>
+<summary>Problems 2361 - 2370</summary>
+</details>
+
+<details>
+<summary>Problems 2371 - 2380</summary>
+</details>
+
+<details>
+<summary>Problems 2381 - 2390</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[2390. Removing Stars From a String](https://leetcode.com/problems/removing-stars-from-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/2390.RemovingStarsFromAString/C%2B%2B)
+
+</details>
+
+<details>
+<summary>Problems 2391 - 2400</summary>
+</details>
 
 </details>
 
