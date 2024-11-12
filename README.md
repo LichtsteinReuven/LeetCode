@@ -420,6 +420,50 @@ This repository is organized by the type of problem and difficulty level. Each s
 
 <details>
 <summary>Problems 701 - 800</summary>
+
+<details>
+<summary>Problems 701 - 710</summary>
+</details>
+
+<details>
+<summary>Problems 711 - 720</summary>
+</details>  
+
+<details>
+<summary>Problems 721 - 730</summary>
+
+&nbsp;&nbsp;&nbsp;&nbsp;[724. Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Easy/724.FindPivotIndex/C)
+
+</details>
+
+<details>
+<summary>Problems 731 - 740</summary>
+</details>
+
+<details>
+<summary>Problems 741 - 750</summary>
+</details>
+
+<details>
+<summary>Problems 751 - 760</summary>
+</details>  
+
+<details>
+<summary>Problems 761 - 770</summary>
+</details>
+
+<details>
+<summary>Problems 771 - 780</summary>
+</details>
+
+<details>
+<summary>Problems 781 - 790</summary>
+</details>
+
+<details>
+<summary>Problems 791 - 800</summary>
+</details>
+
 </details>
 
 <details>
