@@ -185,7 +185,7 @@ This repository is organized by the type of problem and difficulty level. Each s
 <details>
 <summary>Problems 151 - 160</summary>
 
-&nbsp;&nbsp;&nbsp;&nbsp;[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/151.ReverseWordsInAString/Python)
+&nbsp;&nbsp;&nbsp;&nbsp;[151. Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/151.ReverseWordsInAString)
 
 &nbsp;&nbsp;&nbsp;&nbsp;[155. Min Stack](https://leetcode.com/problems/min-stack/) ---> [Solution](https://github.com/LichtsteinReuven/LeetCode/tree/main/Medium/155.MinStack/Python)
 
